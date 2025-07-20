@@ -1,1 +1,5 @@
-
+Annual sale dataset of an Online Store was provided in CSV format for the data analysis to track sale-profit performance
+in different regions, age groups and gender. 
+The data was in crude format; therefore, it was passed through the process of data pre-processing and data cleaning. 
+The improved dataset was imported to Power BI for Exploratory Data Analysis and Dashboarding. 
+The most important KPIs and parameters have been presented in the dashboard visuals.
