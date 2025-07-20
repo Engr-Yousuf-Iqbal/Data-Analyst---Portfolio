@@ -1,1 +1,5 @@
-
+Inventory control and regional marketing strategies rely heavily on sales data insights. 
+In this project, I worked with a raw sales dataset, performed thorough data cleaning
+and applied data modeling techniques to build an interactive Power BI dashboard.
+Key performance metrics were calculated using DAX queries to evaluate sales trends, 
+regional performance, and inventory movement—helping drive data-informed decisions for better business planning.
