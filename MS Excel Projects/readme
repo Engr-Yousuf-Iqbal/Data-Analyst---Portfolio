@@ -1,1 +1,5 @@
-
+Developed an interactive Excel dashboard to analyze a full year of garments sales data.
+Cleaned and prepared the raw dataset by removing duplicates, fixing null values, and standardizing entries.
+The dashboard includes key metrics like monthly trends, top-selling products, regional performance, 
+and customer patterns using PivotTables, slicers, and charts. It offers a clear, visual summary 
+for quick and informed business decisions.
