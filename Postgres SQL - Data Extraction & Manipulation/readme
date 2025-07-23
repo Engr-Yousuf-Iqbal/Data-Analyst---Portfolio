@@ -1,1 +1,4 @@
-
+Performed data analysis on an online music store using PostgreSQL.
+The project involved querying a relational SQL database to extract insights from multiple interconnected tables. 
+Applied complex SQL joins, filters, and aggregations to analyze customer behavior, sales trends, top tracks, 
+and artist performance. Delivered clean, well-structured queries to support data-driven decisions and reporting.
