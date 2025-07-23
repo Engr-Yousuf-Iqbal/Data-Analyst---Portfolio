@@ -1,1 +1,5 @@
-
+Performed in-depth exploratory data analysis (EDA) and data cleaning on a large, complex dataset using Python. 
+Identified and handled missing values, duplicates, and outliers to prepare the data for analysis. 
+Utilized libraries such as Pandas, NumPy, Matplotlib, and Seaborn to generate insightful visualizations, 
+detect patterns, and uncover relationships. The final output included clean, structured data and clear visual reports
+to support further modeling and decision-making.
